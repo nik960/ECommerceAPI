@@ -1,0 +1,20 @@
+{
+  "name": "ecommerceapi",
+  "version": "1.0.0",
+  "description": "An API for an ecommerce platform admin to manage product inventory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Nikhil Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.6"
+  }
+}
